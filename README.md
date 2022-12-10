@@ -1,0 +1,2 @@
+# VERİ YAPILARI HUFFMAN ODEVI
+Muhammed Ali Gürbüzhan 02185076062
