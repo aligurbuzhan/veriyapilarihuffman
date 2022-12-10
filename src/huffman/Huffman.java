@@ -1,3 +1,4 @@
+//MUHAMMED ALİ GÜRBÜZHAN 02185076062 VERİ YAPILARI HUFFMAN
 package huffman;
 
 import java.util.PriorityQueue;
